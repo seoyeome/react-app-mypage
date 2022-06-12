@@ -1,0 +1,13 @@
+.profile {
+  margin-top: 50px;
+  margin-left: 100px;
+  display: flex;
+  
+}
+.profileInfo {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.profileComponent {
+  margin: 30px;
+}

@@ -1,0 +1,11 @@
+.menubar {
+  margin: 20px;
+}
+
+.menubar:hover {
+  border: solid black 1px;
+}
+
+.box {
+  text-align: center;
+}
