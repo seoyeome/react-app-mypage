@@ -7,7 +7,6 @@ function Menubar() {
       <span className={MenubarCSS.menubar}>About</span>
       <span className={MenubarCSS.menubar}>Portfolio</span>
       <span className={MenubarCSS.menubar}>Study</span>
-      <input type="date"/>
       <br/>
       <br/>
       <br/>
